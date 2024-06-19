@@ -1,0 +1,8 @@
+{
+  "mainnet": {
+    "OpenFlux": {
+      "address": "0xc7b22183d305164f643a63d8da9567e28d743c01",
+      "startBlock": 0
+    }
+  }
+}
